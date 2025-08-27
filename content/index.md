@@ -12,6 +12,7 @@ There are almost 3,000+ mosques all throughout America, each with its own beauty
 - [[featured-mosques-and-personal-stories/index|Featured Mosques and Personal Stories]]
 - [[historical-overview/index|Historical Overview]]
 - [[islam-in-the-american-landscape/index|Islam in the American Landscape]] 
+
 ### Obsidian (free)
 
 Using [Obsidian](https://obsidian.md/) is recommended for writing/editing/creating Markdown files and building your knowledge base. It's free, has a user-friendly Markdown editing interface, and supports a variety of customizations and plugins. Obsidian's default theme and settings are recommended for beginners.
