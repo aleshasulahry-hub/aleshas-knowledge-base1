@@ -1,5 +1,5 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Mosques in America- Alesha Sulahry
 ---
 ## Mosques in America
 
