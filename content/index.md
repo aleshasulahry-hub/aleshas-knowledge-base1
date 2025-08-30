@@ -7,11 +7,11 @@ There are almost 3,000+ mosques all throughout America, each with its own beauty
 
 ## Main Categories
 
-- [[architecture-and-design/index|Architecture and Design]]
-- [[community-and-spiritual-life/index|Community and Spiritual Life]]
-- [[featured-mosques-and-personal-stories/index|Featured Mosques and Personal Stories]]
-- [[historical-overview/index|Historical Overview]]
-- [[islam-in-the-american-landscape/index|Islam in the American Landscape]] 
+- [[architecture-and-design/index | Architecture and Design]]
+- [[community-and-spiritual-life/index | Community and Spiritual Life]]
+- [[featured-mosques-and-personal-stories/index | Featured Mosques and Personal Stories]]
+- [[historical-overview/index | Historical Overview]]
+- [[islam-in-the-american-landscape/index | Islam in the American Landscape]] 
 
 
 
