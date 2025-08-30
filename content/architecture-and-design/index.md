@@ -1,3 +1,6 @@
 ---
-title: Architecture and Design
+title:
+  - Architecture and Design
 ---
+
+## [Architecture and Design]
