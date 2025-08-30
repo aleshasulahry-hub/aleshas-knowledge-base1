@@ -1,5 +1,5 @@
 ---
-title: Mosques in America- Alesha Sulahry
+title: Mosques in America - Alesha Sulahry
 ---
 ## Mosques in America
 
