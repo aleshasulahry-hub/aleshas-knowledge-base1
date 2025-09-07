@@ -2,8 +2,7 @@
 title:
   - Historical Overview
 ---
-
-## [Historical Overview]
+# Historical Overview
 ## Related Categories
 
 Historical Overview relates to:

@@ -2,9 +2,7 @@
 title:
   - Community and Spiritual Life
 ---
-
-## [Community and Spiritual Life]
-
+# Community and Spiritual Life
 ## Related Categories
 
 Community and Spiritual Life relates closely to:

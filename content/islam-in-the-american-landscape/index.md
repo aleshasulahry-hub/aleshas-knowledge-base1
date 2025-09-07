@@ -2,8 +2,7 @@
 title:
   - Islam In The American Landscape
 ---
-
-## [Islam in the American Landscape]
+# Islam in the American Landscape
 ## Related Categories
 
 Islam in the American Landscape is linked to:
