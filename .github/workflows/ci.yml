@@ -22,6 +22,7 @@ jobs:
         with:
           submodules: 'true'
           fetch-depth: 0 # Fetch all history
+      
       - name: Apply configurations
   run: |
     mkdir -p quartz/content
