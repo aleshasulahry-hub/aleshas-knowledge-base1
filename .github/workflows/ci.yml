@@ -23,9 +23,11 @@ jobs:
           submodules: 'true'
           fetch-depth: 0 # Fetch all history
       - name: Apply configurations
-        run: |
-          cp quartz.config.ts quartz.layout.ts quartz
-          cp -rf content/* quartz/content/
+  run: |
+    mkdir -p quartz/content
+    cp quartz.config.ts quartz.layout.ts quartz/
+    cp -rf content/* quartz/content/
+    
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
