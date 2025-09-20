@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Sisterhood and Womens Circles
 ## Strength Through Faith and Connection
 

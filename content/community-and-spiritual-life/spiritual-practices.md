@@ -1,5 +1,5 @@
 # Spiritual Practices
-<<<<<<< HEAD
+
 ## Core Pillars of Worship
 
 Daily and weekly spiritual practices form the heart of Muslim life, connecting individuals to God and the community. From the five daily prayers to the communal Friday prayer, these rituals create rhythm, purpose, and unity within the Muslim community. Masjids serve as essential spaces where worship is not just performed but deeply experienced, through reflection, recitation, and shared devotion.

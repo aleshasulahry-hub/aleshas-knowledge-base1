@@ -1,13 +1,8 @@
 # Mosque- Based Social Services
 
-<<<<<<< HEAD
-  
-
 ## More Than Just a Place to Pray
 
 Many mosques offer social services that uplift the entire community, including both Muslims and non- Muslims in need.
-
-  
 
 ### Services Offered
 

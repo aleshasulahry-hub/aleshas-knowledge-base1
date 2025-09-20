@@ -1,8 +1,5 @@
 # Islamic Education and Youth Programs
 
-<<<<<<< HEAD
-  
-
 ## Faith- Based Learning and Growth
 
 Education is a cornerstone of Muslim spiritual development, especially for youth. Communities offer both formal and informal programs to nurture knowledge and connection to faith. From weekend Islamic schools and Quran classes to halaqas and youth mentorship programs, masjids across the country play a vital role in shaping the next generation of confident, informed Muslims!

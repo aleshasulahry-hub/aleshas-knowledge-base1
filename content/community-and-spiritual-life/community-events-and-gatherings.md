@@ -1,8 +1,5 @@
 # Community Events and Gatherings
 
-<<<<<<< HEAD
-  
-
 ## Strengthening Bonds Through Shared Experiences
 
 Muslim communities hold a variety of events that go beyond worship- bringing people together to celebrate, connect, and learn from one another. Hosting these events help strengthen community bonds, fostering a sense of belonging for people of all ages and backgrounds! Masjids across America often serve as community hubs, where spiritual life is closely tied to social, educational, and cultural engagement.
