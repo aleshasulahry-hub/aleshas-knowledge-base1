@@ -1,0 +1,1 @@
+![[assets/western-islamic-architecture]]
